@@ -1,0 +1,17 @@
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<meta name="viewport" content="width=device-width, initial-scale=1" /> 
+<div id="outer">
+<header id="header">
+<div class="logo"> 
+  <img id="header-img" src="https://media.wired.com/photos/5b981cef38fa9f07e6afd832/master/pass/Lightsaber-better-660.jpg">
+</div> 
+  <nav id="nav-bar">
+    <ul style="list-style: none">
+      <li><a class="nav-link" href="#features">Features</a></li>
+      <li><a class="nav-link" href="#prices">Kyber Locations</a></li>
+      <li><a class="nav-link" href="#product-vid">Product Video</a></li>
+      <li><a class="nav-link" href="#submit-section">Submit For News alert</a></li>
+    </ul>
+  </nav>
+</header>
